@@ -18,7 +18,7 @@ _Scripti çalıştırın:_
 _BAT dosyasını yönetici yetkileri ile çalıştırın._
 _Oyunu başlatın:_
 _Minecraft SonOyuncu sunucusuna bağlanın ve optimize edilmiş deneyimin tadını çıkarın._
-_Not: Script, sisteminizde bazı değişiklikler yapar. Kullanım öncesinde yedek almanız önerilir._
+_Not: Script, sisteminizde bazı değişiklikler yapar._
 
 ## **⚠️ Sorumluluk Reddi**
 _Bu script, kullanıcıların kendi sorumluluğunda kullanılır. Proje sahibi, bu scriptin kullanımından doğabilecek herhangi bir sorun, yasaklama veya sistem hasarından sorumlu değildir. Scriptin kullanımından önce gerekli araştırmayı yapmanız önemlidir._
