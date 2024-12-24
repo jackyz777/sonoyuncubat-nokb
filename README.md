@@ -28,3 +28,4 @@ _Bu proje tamamen ücretsizdir ve kaynak kodu gizlenmiştir. Herkes tarafından 
 
 ### **VIRUS TOTAL SONUCU**
 https://www.virustotal.com/gui/file/87c841e996de2d10b1933a101d55ed5f5a477b0b30a65d245d07cc2ec66cf7d5
+> _60/2 Sistem dosyalarında değişiklik yapıtğı için 2 Anti-virüs yazılımı trojan olarak algılamış, virüs değildir._
