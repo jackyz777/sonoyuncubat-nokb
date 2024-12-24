@@ -2,7 +2,7 @@
 
 _Bu proje, Minecraft SonOyuncu sunucusunda oyuncuların knockback oranını optimize etmeye yardımcı olan bir BAT dosyasıdır. Script, sisteminiz üzerinde bazı yapılandırmalar yaparak internet paketlerini düzenler ve kayıt defterindeki belirli ayarları optimize eder. Bu, PvP sırasında daha stabil bir oyun deneyimi sağlar._
 
-_Uyarı: Bu dosya bir hile değildir. Sadece ağ bağlantısı ve sistem ayarlarında değişiklik yaparak oyun deneyimini iyileştirmeyi hedefler. Ancak, scriptin kullanımı sunucu kurallarına aykırı olabilir. Kullanmadan önce sunucu kurallarını kontrol ediniz._
+_Uyarı: Bu dosya bir hile değildir. Sadece ağ bağlantısı ve sistem ayarlarında değişiklik yaparak oyun deneyimini iyileştirmeyi hedefler._
 
 https://hizliresim.com/5g54mop
 
