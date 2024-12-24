@@ -25,3 +25,6 @@ _Bu script, kullanıcıların kendi sorumluluğunda kullanılır. Proje sahibi, 
 
 ## **📂 Lisans**
 _Bu proje tamamen ücretsizdir ve kaynak kodu gizlenmiştir. Herkes tarafından kullanılabilir._
+
+### **VIRUS TOTAL SONUCU**
+https://www.virustotal.com/gui/file/87c841e996de2d10b1933a101d55ed5f5a477b0b30a65d245d07cc2ec66cf7d5
