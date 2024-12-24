@@ -4,7 +4,7 @@ _Bu proje, Minecraft SonOyuncu sunucusunda oyuncuların knockback oranını opti
 
 _Uyarı: Bu dosya bir hile değildir. Sadece ağ bağlantısı ve sistem ayarlarında değişiklik yaparak oyun deneyimini iyileştirmeyi hedefler. Ancak, scriptin kullanımı sunucu kurallarına aykırı olabilir. Kullanmadan önce sunucu kurallarını kontrol ediniz._
 
-https://hizliresim.com/5g54mop
+[url=https://hizliresim.com/5g54mop][img]https://i.hizliresim.com/5g54mop.jpg[/img][/url]
 
 ## **📋 Özellikler**
 _Knockback oranını düşürme: PvP sırasında daha az sekme yaşayın._
