@@ -1,31 +1,33 @@
 ### **Knockback BAT Script**
 
-_Bu proje, Minecraft SonOyuncu sunucusunda oyuncuların knockback oranını optimize etmeye yardımcı olan bir BAT dosyasıdır. Script, sisteminiz üzerinde bazı yapılandırmalar yaparak internet paketlerini düzenler ve kayıt defterindeki belirli ayarları optimize eder. Bu, PvP sırasında daha stabil bir oyun deneyimi sağlar._
+_This project is a BAT file designed to help players optimize knockback rates on the Minecraft server. The script makes adjustments to your system by optimizing internet packets and modifying specific registry settings, aiming for a more stable gaming experience during PvP._
+Warning: _This file is not a cheat. It simply improves gameplay by adjusting network and system settings._
 
-_Uyarı: Bu dosya bir hile değildir. Sadece ağ bağlantısı ve sistem ayarlarında değişiklik yaparak oyun deneyimini iyileştirmeyi hedefler._
+![Local Example](https://github.com/jackyz777/sonoyuncubat-nokb/blob/main/nokb.png)
 
-https://hizliresim.com/5g54mop
+## **📋 Features**
+_Reduced knockback rate: Experience less recoil during PvP._
+_Internet packet optimization: Lower latency (ping) during gameplay._
+_Registry modifications: Tweaks to enhance system performance._
 
-## **📋 Özellikler**
-_Knockback oranını düşürme: PvP sırasında daha az sekme yaşayın._
-_İnternet paketleri optimizasyonu: Oyun sırasında daha düşük gecikme (ping)._
-_Kayıt defteri düzenlemeleri: Sistem performansını artıran tweaks._
+## **🛠️ Installation and Usage**
+Download the file:
+_Download the BAT file from this repository to your device._
 
-## **🛠️ Kurulum ve Kullanım**
-Dosyayı indirin:
-_Bu repository'den BAT dosyasını cihazınıza indirin._
-_Scripti çalıştırın:_
-_BAT dosyasını yönetici yetkileri ile çalıştırın._
-_Oyunu başlatın:_
-_Minecraft SonOyuncu sunucusuna bağlanın ve optimize edilmiş deneyimin tadını çıkarın._
-_Not: Script, sisteminizde bazı değişiklikler yapar._
+Run the script:
+_Execute the BAT file with administrator privileges._
 
-## **⚠️ Sorumluluk Reddi**
-_Bu script, kullanıcıların kendi sorumluluğunda kullanılır. Proje sahibi, bu scriptin kullanımından doğabilecek herhangi bir sorun, yasaklama veya sistem hasarından sorumlu değildir. Scriptin kullanımından önce gerekli araştırmayı yapmanız önemlidir._
+Start the game:
+_Connect to the Minecraft server and enjoy an optimized experience._
+_Not: The script, will make some changes to your system._
 
-## **📂 Lisans**
-_Bu proje tamamen ücretsizdir ve kaynak kodu gizlenmiştir. Herkes tarafından kullanılabilir._
+## **⚠️ Disclaimer**
+_This script is used at the user's own risk. The project owner is not responsible for any issues, bans, or system damage that may occur from its use. It is recommended to research before using the script._
 
-### **VIRUS TOTAL SONUCU**
+## **📂 License**
+_This project is completely free and its source code is hidden. It is available for everyone to use._
+
+### **VIRUS TOTAL RESULT**
 https://www.virustotal.com/gui/file/87c841e996de2d10b1933a101d55ed5f5a477b0b30a65d245d07cc2ec66cf7d5
-> _60/2 Sistem dosyalarında değişiklik yapıtğı için 2 Anti-virüs yazılımı trojan olarak algılamış, virüs değildir._
+> _2 out of 60 antivirus programs flagged it as a trojan due to system file modifications. It is not a virus..._
+
